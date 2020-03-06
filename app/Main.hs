@@ -1,7 +1,7 @@
-
 module Main where
 
-import Lib
+import           WgcLib
 
 main :: IO ()
 main = testFunc
+

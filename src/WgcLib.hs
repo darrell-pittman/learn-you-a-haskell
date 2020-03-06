@@ -1,5 +1,4 @@
-
-module Lib
+module WgcLib
     ( someFunc,
       testFunc
     ) where
