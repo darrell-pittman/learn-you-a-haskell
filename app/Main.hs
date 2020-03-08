@@ -3,5 +3,5 @@ module Main where
 import           WgcLib
 
 main :: IO ()
-main = testFunc
+main = testFunc1
 
